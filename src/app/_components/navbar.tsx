@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import logo from "../../../public/logo.jpeg";
+import logo from "../../../public/favicon/web-app-manifest-512x512.png";
 
 export function NavBar() {
   return (
