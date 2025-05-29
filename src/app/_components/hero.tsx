@@ -27,7 +27,8 @@ export function Hero() {
           </p>
 
           <a
-            href="#"
+            target="blank"
+            href={`https://wa.me/558199144073?text=Olá vim pelo site gostaria de mais informações.`}
             className="bg-[#c8a96a] text-white font-semibold px-6 py-3 inline-block hover:bg-[#b28a52] transition"
           >
             Entre em Contato
