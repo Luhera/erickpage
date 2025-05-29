@@ -23,10 +23,10 @@ export function NavBar(){
               <a href="#About" className="hover:text-[#c8a96a] transition">Sobre</a>
             </li>
             <li>
-              <a href="#areas" className="hover:text-[#c8a96a] transition">Áreas de Atuação</a>
+              <a href="#Areas" className="hover:text-[#c8a96a] transition">Áreas de Atuação</a>
             </li>
             <li>
-              <a href="#servicos" className="hover:text-[#c8a96a] transition">Serviços</a>
+              <a href="#Servicos" className="hover:text-[#c8a96a] transition">Serviços</a>
             </li>
           </ul>
         </nav>
