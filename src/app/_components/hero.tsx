@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export function Hero() {
   return (
-    <section className="bg-[#dcd4c1] relative overflow-hidden">
+    <section className="bg-[#dcd4c1] relative overflow-hidden pt-60 md:pt-16">
       <div className="absolute inset-0 md:hidden ">
         <Image
           src={erickimg}
