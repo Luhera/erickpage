@@ -19,7 +19,7 @@ export function Footer() {
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    const message = `Olá, meu nome é ${formData.nome}.\nMeu contato: ${formData.contato}.\nDescrição do problema: ${formData.descricao}`;
+    const message = `Olá, meu nome é ${formData.nome}.\nMeu contato: ${formData.contato}\nDescrição do problema: ${formData.descricao}`;
     const whatsappURL = `https://wa.me/558199144073?text=${encodeURIComponent(
       message
     )}`;
