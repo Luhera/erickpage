@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Advogacia Erick Heraclio",
+  title: "Advocacia Erick Heraclio",
   description: "Creating the landing page for Advogacia.",
 };
 

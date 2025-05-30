@@ -53,7 +53,7 @@ export function Footer() {
         </div>
       </div>
 
-      <div className="mt-8 text-center border-t border-[#F0E68C] pt-4">
+      <div className="mt-8 text-center border-t border-[#F0E68C] pt-10 ">
         <p className="text-sm">
           © {new Date().getFullYear()} ANDERSON HENRIQUE LUCENA DO NASCIMENTO HERACLIO - Todos os Direitos
           Reservados

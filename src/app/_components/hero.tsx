@@ -22,10 +22,6 @@ export function Hero() {
             com Excelência <br />e Ética
           </h1>
 
-          <p className="text-lg md:text-xl text-[#333]">
-            Especialista em Direito Civil e Trabalhista
-          </p>
-
           <a
             target="blank"
             href={`https://wa.me/558199144073?text=Olá vim pelo site gostaria de mais informações.`}
